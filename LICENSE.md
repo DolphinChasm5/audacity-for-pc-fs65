@@ -1,4 +1,4 @@
-# 
+# Audacity for PC | Audacity for Windows custom Script: real-time-preview & normalization is the best Audacity for PC | Audacity for Windows script, featuring real-time-preview and
 
 
 
